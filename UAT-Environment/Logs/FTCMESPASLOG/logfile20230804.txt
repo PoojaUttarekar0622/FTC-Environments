@@ -1,0 +1,1641 @@
+2023-08-04 01:21:06,246 [14] INFO  MESPAS.Controllers.MESPASEnquiryController - Generated MESPAS TokeneyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX25hbWUiOiJpbnRlcmZhY2UtZnVqaUBtZXNwYXMuY29tIiwic2NvcGUiOlsicmVhZCIsIndyaXRlIl0sInRva2VuLWlkIjoiOGE3MDgwOTY3YmEwNGZmYTAxN2M1NGQ4ZDZjZDAwMTgiLCJleHAiOjM3ODA5OTQ3MTYsImF1dGhvcml0aWVzIjpbIlJPTEVfU1VQUExJRVJfQVBJIl0sImp0aSI6IjQ3NWQ4ZWM5LTRlNmYtNDU3Yy1hZjRhLTUxMzZkMWExMGY0ZSIsImNsaWVudF9pZCI6Im1lc3Bhcy13ZWItbW9iaWxlIiwidG9rZW4ta2luZCI6Im1vYmlsZSJ9.tZ5AfGZh8UQb13AxmHMaGPEnvUB4ZYDIPsEQACvUX1Q
+2023-08-04 01:21:06,350 [14] INFO  MESPAS.Controllers.MESPASEnquiryController - Data Converted into our json
+2023-08-04 01:21:07,304 [6] INFO  MESPAS.Controllers.MESPASEnquiryController - Get latest Event Id36599
+2023-08-04 01:23:14,027 [8] INFO  MESPAS.Controllers.MESPASEnquiryController - Generated MESPAS TokeneyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX25hbWUiOiJpbnRlcmZhY2UtZnVqaUBtZXNwYXMuY29tIiwic2NvcGUiOlsicmVhZCIsIndyaXRlIl0sInRva2VuLWlkIjoiOGE3MDgwOTY3YmEwNGZmYTAxN2M1NGQ4ZDZjZDAwMTgiLCJleHAiOjM3ODA5OTQ3MTYsImF1dGhvcml0aWVzIjpbIlJPTEVfU1VQUExJRVJfQVBJIl0sImp0aSI6IjQ3NWQ4ZWM5LTRlNmYtNDU3Yy1hZjRhLTUxMzZkMWExMGY0ZSIsImNsaWVudF9pZCI6Im1lc3Bhcy13ZWItbW9iaWxlIiwidG9rZW4ta2luZCI6Im1vYmlsZSJ9.tZ5AfGZh8UQb13AxmHMaGPEnvUB4ZYDIPsEQACvUX1Q
+2023-08-04 01:23:14,098 [8] INFO  MESPAS.Controllers.MESPASEnquiryController - Data Converted into our json
+2023-08-04 01:23:14,172 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - Get latest Event Id36640
+2023-08-04 01:26:06,584 [15] INFO  MESPAS.Controllers.MESPASEnquiryController - Generated MESPAS TokeneyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX25hbWUiOiJpbnRlcmZhY2UtZnVqaUBtZXNwYXMuY29tIiwic2NvcGUiOlsicmVhZCIsIndyaXRlIl0sInRva2VuLWlkIjoiOGE3MDgwOTY3YmEwNGZmYTAxN2M1NGQ4ZDZjZDAwMTgiLCJleHAiOjM3ODA5OTQ3MTYsImF1dGhvcml0aWVzIjpbIlJPTEVfU1VQUExJRVJfQVBJIl0sImp0aSI6IjQ3NWQ4ZWM5LTRlNmYtNDU3Yy1hZjRhLTUxMzZkMWExMGY0ZSIsImNsaWVudF9pZCI6Im1lc3Bhcy13ZWItbW9iaWxlIiwidG9rZW4ta2luZCI6Im1vYmlsZSJ9.tZ5AfGZh8UQb13AxmHMaGPEnvUB4ZYDIPsEQACvUX1Q
+2023-08-04 01:26:06,585 [15] INFO  MESPAS.Controllers.MESPASEnquiryController - Data Converted into our json
+2023-08-04 01:26:06,711 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - Get latest Event Id36640
+2023-08-04 13:22:39,165 [14] INFO  MESPAS.Controllers.MESPASEnquiryController - Generated MESPAS TokeneyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX25hbWUiOiJpbnRlcmZhY2UtZnVqaUBtZXNwYXMuY29tIiwic2NvcGUiOlsicmVhZCIsIndyaXRlIl0sInRva2VuLWlkIjoiOGE3MDgwOTY3YmEwNGZmYTAxN2M1NGQ4ZDZjZDAwMTgiLCJleHAiOjM3ODA5OTQ3MTYsImF1dGhvcml0aWVzIjpbIlJPTEVfU1VQUExJRVJfQVBJIl0sImp0aSI6IjQ3NWQ4ZWM5LTRlNmYtNDU3Yy1hZjRhLTUxMzZkMWExMGY0ZSIsImNsaWVudF9pZCI6Im1lc3Bhcy13ZWItbW9iaWxlIiwidG9rZW4ta2luZCI6Im1vYmlsZSJ9.tZ5AfGZh8UQb13AxmHMaGPEnvUB4ZYDIPsEQACvUX1Q
+2023-08-04 13:22:40,151 [14] INFO  MESPAS.Controllers.MESPASEnquiryController - Data Converted into our json
+2023-08-04 13:22:44,873 [20] INFO  MESPAS.Controllers.MESPASEnquiryController - Get latest Event Id36640
+2023-08-04 13:22:46,427 [20] INFO  MESPAS.Controllers.MESPASEnquiryController - Before Update latested Event ID 36641
+2023-08-04 13:22:46,431 [20] INFO  MESPAS.Controllers.MESPASEnquiryController - After Update latested Event ID "{\"result\":\"latest Event Id updated successfully\"}"
+2023-08-04 13:22:46,433 [20] INFO  MESPAS.Controllers.MESPASEnquiryController - Get eventId respected of request created8aee828789964c100189bb1a8da55357
+2023-08-04 13:22:49,437 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - Get Active Customer Tamar Ship Management Ltd.
+2023-08-04 13:22:49,437 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - After Get Active Customer "Tamar Ship Management Ltd."
+2023-08-04 13:22:49,437 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - Customer listTAMAR SHIP MANAGEMENT LTD.Tamar Ship Management Ltd.
+2023-08-04 13:22:49,528 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - Error Occured while Saving attachmentThe device is not ready. : 'D:\Application\MESPAS\Data\ProcessedJSON\'
+2023-08-04 13:22:49,531 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - Get enquiry details for respected event id{
+  "id": "8aee828789964c100189bb1a8da55357",
+  "status": "NEW",
+  "priority": null,
+  "requestTerms": {
+    "referenceNumber": "O-23-STB-067-D/01",
+    "currency": "JPY",
+    "requestDate": "2023-08-03",
+    "replyUntil": null,
+    "paymentTerms": null,
+    "remark": null,
+    "restrictedUnits": []
+  },
+  "deliveryTerms": {
+    "deliveryDate": null,
+    "deliveryDateRemark": null,
+    "incoterm": "NA",
+    "deliveryCountry": "JP",
+    "deliveryCity": null
+  },
+  "deliveryDetails": {
+    "company": {
+      "type": "OTHER",
+      "id": null,
+      "name": null,
+      "web": null,
+      "vatNumber": null,
+      "vatText": null,
+      "eoriNumber": null,
+      "address": {
+        "coName": null,
+        "street1": null,
+        "street2": null,
+        "postbox": null,
+        "state": null,
+        "zip": null,
+        "city": null,
+        "country": null
+      },
+      "telco": {
+        "phone": null,
+        "mobile": null,
+        "fax": null
+      }
+    },
+    "contact": null,
+    "recipient": null,
+    "recipientPhone": null,
+    "remark": null
+  },
+  "vessel": {
+    "name": "STRAITS BAY",
+    "imo": "9370006"
+  },
+  "buyer": {
+    "company": {
+      "type": "MESPAS",
+      "id": "8a7080865cea4661015d2c59f50a0226",
+      "name": "Tamar Ship Management Ltd.",
+      "web": null,
+      "vatNumber": null,
+      "vatText": null,
+      "eoriNumber": null,
+      "address": {
+        "coName": null,
+        "street1": "26/F Vertical SQ, 28 Heung Yip Road, Wong Chuk Hang.",
+        "street2": "",
+        "postbox": "",
+        "state": "",
+        "zip": "999077",
+        "city": "Hong Kong",
+        "country": "HK"
+      },
+      "telco": {
+        "phone": "+852 3766 1900",
+        "mobile": null,
+        "fax": null
+      }
+    },
+    "contact": {
+      "firstName": "MESPAS",
+      "lastName": "Admin",
+      "email": "andre.spichtig@mespas.com",
+      "telco": {
+        "phone": null,
+        "mobile": null,
+        "fax": null
+      }
+    }
+  },
+  "supplier": {
+    "company": {
+      "type": "MESPAS",
+      "id": "ff8081815191ccb70151927afa6130ff",
+      "name": "Fuji Trading Co. Ltd. (Kobe)",
+      "web": null,
+      "vatNumber": null,
+      "vatText": null,
+      "eoriNumber": null,
+      "address": {
+        "coName": null,
+        "street1": "Fukaehamamachi-6, Higashinada-ku",
+        "street2": "",
+        "postbox": "",
+        "state": "",
+        "zip": "658-0023",
+        "city": "Kobe",
+        "country": "JP"
+      },
+      "telco": {
+        "phone": null,
+        "mobile": null,
+        "fax": null
+      }
+    },
+    "contact": {
+      "firstName": "Interface",
+      "lastName": "Administrator",
+      "email": "interface-fuji@mespas.com",
+      "telco": {
+        "phone": null,
+        "mobile": null,
+        "fax": null
+      }
+    }
+  },
+  "product": {
+    "type": "MESPAS",
+    "id": "ff8081815191c8e2015192a0e834594c",
+    "name": "253.1kN x 9m/min",
+    "execution": null,
+    "specification": null,
+    "productInstance": {
+      "type": "MESPAS",
+      "id": "8a7080e27829dac001783508e7bd2e03",
+      "serialNumber": "",
+      "buildingYear": "2007",
+      "label": "Windlass Port",
+      "builder": {
+        "name": "Kawasaki Precision Machinery Ltd."
+      }
+    },
+    "brand": {
+      "name": "Kawasaki"
+    },
+    "specificationDetails": []
+  },
+  "attachments": [
+    {
+      "fileId": "8aee818b89b9a1440189bb1a8e820002",
+      "fileName": "Rfq_O-23-STB-067-D_01_Fuji_Trading_Co__Ltd__(Kobe)_Administrator.pdf",
+      "size": "313.7980",
+      "mimeType": "application/octet-stream"
+    }
+  ],
+  "items": [
+    {
+      "position": "1",
+      "quality": null,
+      "remark": null,
+      "quantity": "4.000",
+      "unit": "PIECE",
+      "component": {
+        "type": "MESPAS",
+        "id": "8a70809c85abe71701874d5ab9667c44",
+        "name": "SPEEDI SLEEVE",
+        "execution": "FOR HYDRAULIC MOTOR",
+        "brand": {
+          "name": "Kawasaki"
+        },
+        "specificationDetails": [
+          {
+            "name": "Item No.",
+            "value": "-"
+          },
+          {
+            "name": "Group",
+            "value": ""
+          },
+          {
+            "name": "Dwg. No.",
+            "value": ""
+          },
+          {
+            "name": "Qty./Unit",
+            "value": ""
+          },
+          {
+            "name": "Material",
+            "value": ""
+          },
+          {
+            "name": "Part No.",
+            "value": ""
+          }
+        ],
+        "primaryIdentificationValue": "-",
+        "secondaryIdentificationValue": ""
+      }
+    },
+    {
+      "position": "2",
+      "quality": null,
+      "remark": "KAWASAKI HYDRAULIC DECK MACHINERY, \n \"ADVANCED SERIES\", \nKAWASAKI PRECISION MACHINERY LTD. \nSHIP No.: 1578\nMANUAL NO.: H-302, INSTRUCTION BOOK FOR WINDLASS & MOORING WINCH\nDRAWING NO.: 04281G05S01B,\nCHAPTER 5. DETAIL DESCRIPTION OF MAIN PARTS\nHYDRAULIC MOTOR,\nTYPE: HMKC SERIES, \n",
+      "quantity": "1.000",
+      "unit": "PIECE",
+      "component": {
+        "type": "MESPAS",
+        "id": "8a70809c85abe7170188821151944550",
+        "name": "TWO SPEED CRANKSHAFT",
+        "execution": "FOR WINDLASS/MOORING WINCH HYD. MOTOR",
+        "brand": {
+          "name": "Kawasaki"
+        },
+        "specificationDetails": [
+          {
+            "name": "Item No.",
+            "value": "201GA"
+          },
+          {
+            "name": "Group",
+            "value": ""
+          },
+          {
+            "name": "Dwg. No.",
+            "value": "04281G05S01B"
+          },
+          {
+            "name": "Qty./Unit",
+            "value": "1"
+          },
+          {
+            "name": "Material",
+            "value": ""
+          },
+          {
+            "name": "Part No.",
+            "value": ""
+          }
+        ],
+        "primaryIdentificationValue": "201GA",
+        "secondaryIdentificationValue": ""
+      }
+    },
+    {
+      "position": "3",
+      "quality": null,
+      "remark": "KAWASAKI HYDRAULIC DECK MACHINERY, \n \"ADVANCED SERIES\", \nKAWASAKI PRECISION MACHINERY LTD. \nSHIP No.: 1578\nMANUAL NO.: H-302, INSTRUCTION BOOK FOR WINDLASS & MOORING WINCH\nDRAWING NO.: 04281G05S01B,\nCHAPTER 5. DETAIL DESCRIPTION OF MAIN PARTS\nHYDRAULIC MOTOR,\nTYPE: HMKC SERIES, ",
+      "quantity": "4.000",
+      "unit": "PIECE",
+      "component": {
+        "type": "MESPAS",
+        "id": "8a70809c85abe7170188872f5cfc5274",
+        "name": "REAR BEARING",
+        "execution": "FOR WINDLASS/MOORING WINCH HYD. MOTOR",
+        "brand": {
+          "name": "Kawasaki"
+        },
+        "specificationDetails": [
+          {
+            "name": "Item No.",
+            "value": "401V"
+          },
+          {
+            "name": "Group",
+            "value": ""
+          },
+          {
+            "name": "Dwg. No.",
+            "value": "04281G05S01B"
+          },
+          {
+            "name": "Qty./Unit",
+            "value": "1"
+          },
+          {
+            "name": "Material",
+            "value": ""
+          },
+          {
+            "name": "Part No.",
+            "value": ""
+          }
+        ],
+        "primaryIdentificationValue": "401V",
+        "secondaryIdentificationValue": ""
+      }
+    },
+    {
+      "position": "4",
+      "quality": null,
+      "remark": "KAWASAKI HYDRAULIC DECK MACHINERY, \n \"ADVANCED SERIES\", \nKAWASAKI PRECISION MACHINERY LTD. \nSHIP No.: 1578\nMANUAL NO.: H-302, INSTRUCTION BOOK FOR WINDLASS & MOORING WINCH\nDRAWING NO.: 04281G05S01B,\nCHAPTER 5. DETAIL DESCRIPTION OF MAIN PARTS\nHYDRAULIC MOTOR,\nTYPE: HMKC SERIES, ",
+      "quantity": "4.000",
+      "unit": "PIECE",
+      "component": {
+        "type": "MESPAS",
+        "id": "8a70809c85abe7170188872f5d38527f",
+        "name": "FRONT BEARING",
+        "execution": "FOR WINDLASS/MOORING WINCH HYD. MOTOR",
+        "brand": {
+          "name": "Kawasaki"
+        },
+        "specificationDetails": [
+          {
+            "name": "Item No.",
+            "value": "402W"
+          },
+          {
+            "name": "Group",
+            "value": ""
+          },
+          {
+            "name": "Dwg. No.",
+            "value": "04281G05S01B"
+          },
+          {
+            "name": "Qty./Unit",
+            "value": "1"
+          },
+          {
+            "name": "Material",
+            "value": ""
+          },
+          {
+            "name": "Part No.",
+            "value": ""
+          }
+        ],
+        "primaryIdentificationValue": "402W",
+        "secondaryIdentificationValue": ""
+      }
+    },
+    {
+      "position": "5",
+      "quality": null,
+      "remark": "KAWASAKI HYDRAULIC DECK MACHINERY, \n \"ADVANCED SERIES\", \nKAWASAKI PRECISION MACHINERY LTD. \nSHIP No.: 1578\nMANUAL NO.: H-302, INSTRUCTION BOOK FOR WINDLASS & MOORING WINCH\nDRAWING NO.: 04281G05S01B,\nCHAPTER 5. DETAIL DESCRIPTION OF MAIN PARTS\nHYDRAULIC MOTOR,\nTYPE: HMKC SERIES, ",
+      "quantity": "20.000",
+      "unit": "PIECE",
+      "component": {
+        "type": "MESPAS",
+        "id": "8a70809c85abe7170188872f5c55525e",
+        "name": "PISTON SEAL RING",
+        "execution": "FOR WINDLASS/MOORING WINCH HYD. MOTOR",
+        "brand": {
+          "name": "Kawasaki"
+        },
+        "specificationDetails": [
+          {
+            "name": "Item No.",
+            "value": "404Q"
+          },
+          {
+            "name": "Group",
+            "value": ""
+          },
+          {
+            "name": "Dwg. No.",
+            "value": "04281G05S01B"
+          },
+          {
+            "name": "Qty./Unit",
+            "value": "5"
+          },
+          {
+            "name": "Material",
+            "value": ""
+          },
+          {
+            "name": "Part No.",
+            "value": ""
+          }
+        ],
+        "primaryIdentificationValue": "404Q",
+        "secondaryIdentificationValue": ""
+      }
+    },
+    {
+      "position": "6",
+      "quality": null,
+      "remark": "KAWASAKI HYDRAULIC DECK MACHINERY, \n \"ADVANCED SERIES\", \nKAWASAKI PRECISION MACHINERY LTD. \nSHIP No.: 1578\nMANUAL NO.: H-302, INSTRUCTION BOOK FOR WINDLASS & MOORING WINCH\nDRAWING NO.: 04281G05S01B,\nCHAPTER 5. DETAIL DESCRIPTION OF MAIN PARTS\nHYDRAULIC MOTOR,\nTYPE: HMKC SERIES, ",
+      "quantity": "48.000",
+      "unit": "PIECE",
+      "component": {
+        "type": "MESPAS",
+        "id": "8a70809c85abe7170188872f5cc45269",
+        "name": "VALVE SEAL RING",
+        "execution": "FOR WINDLASS/MOORING WINCH HYD. MOTOR",
+        "brand": {
+          "name": "Kawasaki"
+        },
+        "specificationDetails": [
+          {
+            "name": "Item No.",
+            "value": "405R"
+          },
+          {
+            "name": "Group",
+            "value": ""
+          },
+          {
+            "name": "Dwg. No.",
+            "value": "04281G05S01B"
+          },
+          {
+            "name": "Qty./Unit",
+            "value": "12"
+          },
+          {
+            "name": "Material",
+            "value": ""
+          },
+          {
+            "name": "Part No.",
+            "value": ""
+          }
+        ],
+        "primaryIdentificationValue": "405R",
+        "secondaryIdentificationValue": ""
+      }
+    },
+    {
+      "position": "7",
+      "quality": null,
+      "remark": "KAWASAKI HYDRAULIC DECK MACHINERY, \n \"ADVANCED SERIES\", \nKAWASAKI PRECISION MACHINERY LTD. \nSHIP No.: 1578\nMANUAL NO.: H-302, INSTRUCTION BOOK FOR WINDLASS & MOORING WINCH\nDRAWING NO.: 04281G05S01B,\nCHAPTER 5. DETAIL DESCRIPTION OF MAIN PARTS\nHYDRAULIC MOTOR,\nTYPE: HMKC SERIES, ",
+      "quantity": "4.000",
+      "unit": "PIECE",
+      "component": {
+        "type": "MESPAS",
+        "id": "8a70809c85abe7170188872f5e9252c1",
+        "name": "O-RING(FRONT COVER)",
+        "execution": "FOR WINDLASS/MOORING WINCH HYD. MOTOR",
+        "brand": {
+          "name": "Kawasaki"
+        },
+        "specificationDetails": [
+          {
+            "name": "Item No.",
+            "value": "410AC"
+          },
+          {
+            "name": "Group",
+            "value": ""
+          },
+          {
+            "name": "Dwg. No.",
+            "value": "04281G05S01B"
+          },
+          {
+            "name": "Qty./Unit",
+            "value": "1"
+          },
+          {
+            "name": "Material",
+            "value": ""
+          },
+          {
+            "name": "Part No.",
+            "value": ""
+          }
+        ],
+        "primaryIdentificationValue": "410AC",
+        "secondaryIdentificationValue": ""
+      }
+    },
+    {
+      "position": "8",
+      "quality": null,
+      "remark": "KAWASAKI HYDRAULIC DECK MACHINERY, \n \"ADVANCED SERIES\", \nKAWASAKI PRECISION MACHINERY LTD. \nSHIP No.: 1578\nMANUAL NO.: H-302, INSTRUCTION BOOK FOR WINDLASS & MOORING WINCH\nDRAWING NO.: 04281G05S01B,\nCHAPTER 5. DETAIL DESCRIPTION OF MAIN PARTS\nHYDRAULIC MOTOR,\nTYPE: HMKC SERIES, ",
+      "quantity": "4.000",
+      "unit": "PIECE",
+      "component": {
+        "type": "MESPAS",
+        "id": "8a70809c85abe7170188872f5e5c52b6",
+        "name": "VALVE HOUSING SPIGOT",
+        "execution": "FOR WINDLASS/MOORING WINCH HYD. MOTOR",
+        "brand": {
+          "name": "Kawasaki"
+        },
+        "specificationDetails": [
+          {
+            "name": "Item No.",
+            "value": "411AB"
+          },
+          {
+            "name": "Group",
+            "value": ""
+          },
+          {
+            "name": "Dwg. No.",
+            "value": "04281G05S01B"
+          },
+          {
+            "name": "Qty./Unit",
+            "value": "1"
+          },
+          {
+            "name": "Material",
+            "value": ""
+          },
+          {
+            "name": "Part No.",
+            "value": ""
+          }
+        ],
+        "primaryIdentificationValue": "411AB",
+        "secondaryIdentificationValue": ""
+      }
+    },
+    {
+      "position": "9",
+      "quality": null,
+      "remark": "KAWASAKI HYDRAULIC DECK MACHINERY, \n \"ADVANCED SERIES\", \nKAWASAKI PRECISION MACHINERY LTD. \nSHIP No.: 1578\nMANUAL NO.: H-302, INSTRUCTION BOOK FOR WINDLASS & MOORING WINCH\nDRAWING NO.: 04281G05S01B,\nCHAPTER 5. DETAIL DESCRIPTION OF MAIN PARTS\nHYDRAULIC MOTOR,\nTYPE: HMKC SERIES, ",
+      "quantity": "4.000",
+      "unit": "PIECE",
+      "component": {
+        "type": "MESPAS",
+        "id": "8a70809c85abe7170188872f615f5350",
+        "name": "SPACER SPIGOT",
+        "execution": "FOR WINDLASS/MOORING WINCH HYD. MOTOR",
+        "brand": {
+          "name": "Kawasaki"
+        },
+        "specificationDetails": [
+          {
+            "name": "Item No.",
+            "value": "411GJ"
+          },
+          {
+            "name": "Group",
+            "value": ""
+          },
+          {
+            "name": "Dwg. No.",
+            "value": "04281G05S01B"
+          },
+          {
+            "name": "Qty./Unit",
+            "value": "1"
+          },
+          {
+            "name": "Material",
+            "value": ""
+          },
+          {
+            "name": "Part No.",
+            "value": ""
+          }
+        ],
+        "primaryIdentificationValue": "411GJ",
+        "secondaryIdentificationValue": ""
+      }
+    },
+    {
+      "position": "10",
+      "quality": null,
+      "remark": "KAWASAKI HYDRAULIC DECK MACHINERY, \n \"ADVANCED SERIES\", \nKAWASAKI PRECISION MACHINERY LTD. \nSHIP No.: 1578\nMANUAL NO.: H-302, INSTRUCTION BOOK FOR WINDLASS & MOORING WINCH\nDRAWING NO.: 04281G05S01B,\nCHAPTER 5. DETAIL DESCRIPTION OF MAIN PARTS\nHYDRAULIC MOTOR,\nTYPE: HMKC SERIES, ",
+      "quantity": "4.000",
+      "unit": "PIECE",
+      "component": {
+        "type": "MESPAS",
+        "id": "8a70809c85abe7170188872f5d6c528a",
+        "name": "SQUARE SECT. SEAL RING",
+        "execution": "FOR WINDLASS/MOORING WINCH HYD. MOTOR",
+        "brand": {
+          "name": "Kawasaki"
+        },
+        "specificationDetails": [
+          {
+            "name": "Item No.",
+            "value": "413X"
+          },
+          {
+            "name": "Group",
+            "value": ""
+          },
+          {
+            "name": "Dwg. No.",
+            "value": "04281G05S01B"
+          },
+          {
+            "name": "Qty./Unit",
+            "value": "1"
+          },
+          {
+            "name": "Material",
+            "value": ""
+          },
+          {
+            "name": "Part No.",
+            "value": ""
+          }
+        ],
+        "primaryIdentificationValue": "413X",
+        "secondaryIdentificationValue": ""
+      }
+    },
+    {
+      "position": "11",
+      "quality": null,
+      "remark": "KAWASAKI HYDRAULIC DECK MACHINERY, \n \"ADVANCED SERIES\", \nKAWASAKI PRECISION MACHINERY LTD. \nSHIP No.: 1578\nMANUAL NO.: H-302, INSTRUCTION BOOK FOR WINDLASS & MOORING WINCH\nDRAWING NO.: 04281G05S01B,\nCHAPTER 5. DETAIL DESCRIPTION OF MAIN PARTS\nHYDRAULIC MOTOR,\nTYPE: HMKC SERIES, ",
+      "quantity": "20.000",
+      "unit": "PIECE",
+      "component": {
+        "type": "MESPAS",
+        "id": "8a70809c85abe7170188872f5deb52a0",
+        "name": "SQUARE SECT. SEAL RING",
+        "execution": "FOR WINDLASS/MOORING WINCH HYD. MOTOR",
+        "brand": {
+          "name": "Kawasaki"
+        },
+        "specificationDetails": [
+          {
+            "name": "Item No.",
+            "value": "414Z"
+          },
+          {
+            "name": "Group",
+            "value": ""
+          },
+          {
+            "name": "Dwg. No.",
+            "value": "04281G05S01B"
+          },
+          {
+            "name": "Qty./Unit",
+            "value": "5"
+          },
+          {
+            "name": "Material",
+            "value": ""
+          },
+          {
+            "name": "Part No.",
+            "value": ""
+          }
+        ],
+        "primaryIdentificationValue": "414Z",
+        "secondaryIdentificationValue": ""
+      }
+    },
+    {
+      "position": "12",
+      "quality": null,
+      "remark": "KAWASAKI HYDRAULIC DECK MACHINERY, \n \"ADVANCED SERIES\", \nKAWASAKI PRECISION MACHINERY LTD. \nSHIP No.: 1578\nMANUAL NO.: H-302, INSTRUCTION BOOK FOR WINDLASS & MOORING WINCH\nDRAWING NO.: 04281G05S01B,\nCHAPTER 5. DETAIL DESCRIPTION OF MAIN PARTS\nHYDRAULIC MOTOR,\nTYPE: HMKC SERIES, ",
+      "quantity": "20.000",
+      "unit": "PIECE",
+      "component": {
+        "type": "MESPAS",
+        "id": "8a70809c85abe7170188872f6192535b",
+        "name": "O-RING(INTERNAL PORT SPACER)",
+        "execution": "FOR WINDLASS/MOORING WINCH HYD. MOTOR",
+        "brand": {
+          "name": "Kawasaki"
+        },
+        "specificationDetails": [
+          {
+            "name": "Item No.",
+            "value": "415GK"
+          },
+          {
+            "name": "Group",
+            "value": ""
+          },
+          {
+            "name": "Dwg. No.",
+            "value": "04281G05S01B"
+          },
+          {
+            "name": "Qty./Unit",
+            "value": "5"
+          },
+          {
+            "name": "Material",
+            "value": ""
+          },
+          {
+            "name": "Part No.",
+            "value": ""
+          }
+        ],
+        "primaryIdentificationValue": "415GK",
+        "secondaryIdentificationValue": ""
+      }
+    },
+    {
+      "position": "13",
+      "quality": null,
+      "remark": "KAWASAKI HYDRAULIC DECK MACHINERY, \n \"ADVANCED SERIES\", \nKAWASAKI PRECISION MACHINERY LTD. \nSHIP No.: 1578\nMANUAL NO.: H-302, INSTRUCTION BOOK FOR WINDLASS & MOORING WINCH\nDRAWING NO.: 04281G05S01B,\nCHAPTER 5. DETAIL DESCRIPTION OF MAIN PARTS\nHYDRAULIC MOTOR,\nTYPE: HMKC SERIES, ",
+      "quantity": "20.000",
+      "unit": "PIECE",
+      "component": {
+        "type": "MESPAS",
+        "id": "8a70809c85abe7170188872f5dad5295",
+        "name": "O-RING(INTERNAL PORT)",
+        "execution": "FOR WINDLASS/MOORING WINCH HYD. MOTOR",
+        "brand": {
+          "name": "Kawasaki"
+        },
+        "specificationDetails": [
+          {
+            "name": "Item No.",
+            "value": "415Y"
+          },
+          {
+            "name": "Group",
+            "value": ""
+          },
+          {
+            "name": "Dwg. No.",
+            "value": "04281G05S01B"
+          },
+          {
+            "name": "Qty./Unit",
+            "value": "5"
+          },
+          {
+            "name": "Material",
+            "value": ""
+          },
+          {
+            "name": "Part No.",
+            "value": ""
+          }
+        ],
+        "primaryIdentificationValue": "415Y",
+        "secondaryIdentificationValue": ""
+      }
+    },
+    {
+      "position": "14",
+      "quality": null,
+      "remark": "KAWASAKI HYDRAULIC DECK MACHINERY, \n \"ADVANCED SERIES\", \nKAWASAKI PRECISION MACHINERY LTD. \nSHIP No.: 1578\nMANUAL NO.: H-302, INSTRUCTION BOOK FOR WINDLASS & MOORING WINCH\nDRAWING NO.: 04281G05S01B,\nCHAPTER 5. DETAIL DESCRIPTION OF MAIN PARTS\nHYDRAULIC MOTOR,\nTYPE: HMKC SERIES, ",
+      "quantity": "4.000",
+      "unit": "PIECE",
+      "component": {
+        "type": "MESPAS",
+        "id": "8a70809c85abe7170188872f5e2852ab",
+        "name": "SHAFT SEAL",
+        "execution": "FOR WINDLASS/MOORING WINCH HYD. MOTOR",
+        "brand": {
+          "name": "Kawasaki"
+        },
+        "specificationDetails": [
+          {
+            "name": "Item No.",
+            "value": "417AA"
+          },
+          {
+            "name": "Group",
+            "value": ""
+          },
+          {
+            "name": "Dwg. No.",
+            "value": "04281G05S01B"
+          },
+          {
+            "name": "Qty./Unit",
+            "value": "1"
+          },
+          {
+            "name": "Material",
+            "value": ""
+          },
+          {
+            "name": "Part No.",
+            "value": ""
+          }
+        ],
+        "primaryIdentificationValue": "417AA",
+        "secondaryIdentificationValue": ""
+      }
+    },
+    {
+      "position": "15",
+      "quality": null,
+      "remark": "KAWASAKI HYDRAULIC DECK MACHINERY, \n \"ADVANCED SERIES\", \nKAWASAKI PRECISION MACHINERY LTD. \nSHIP No.: 1578\nMANUAL NO.: H-302, INSTRUCTION BOOK FOR WINDLASS & MOORING WINCH\nDRAWING NO.: 04281G05S01B,\nCHAPTER 5. DETAIL DESCRIPTION OF MAIN PARTS\nHYDRAULIC MOTOR,\nTYPE: HMKC SERIES, ",
+      "quantity": "20.000",
+      "unit": "PIECE",
+      "component": {
+        "type": "MESPAS",
+        "id": "8a70809c85abe7170188872f61c65366",
+        "name": "S.H.C.S (VALVE HOUSING/SPACER/MOTORCASE)",
+        "execution": "FOR WINDLASS/MOORING WINCH HYD. MOTOR",
+        "brand": {
+          "name": "Kawasaki"
+        },
+        "specificationDetails": [
+          {
+            "name": "Item No.",
+            "value": "418GL"
+          },
+          {
+            "name": "Group",
+            "value": ""
+          },
+          {
+            "name": "Dwg. No.",
+            "value": "04281G05S01B"
+          },
+          {
+            "name": "Qty./Unit",
+            "value": "5"
+          },
+          {
+            "name": "Material",
+            "value": ""
+          },
+          {
+            "name": "Part No.",
+            "value": ""
+          }
+        ],
+        "primaryIdentificationValue": "418GL",
+        "secondaryIdentificationValue": ""
+      }
+    },
+    {
+      "position": "16",
+      "quality": null,
+      "remark": "KAWASAKI HYDRAULIC DECK MACHINERY, \n \"ADVANCED SERIES\", \nKAWASAKI PRECISION MACHINERY LTD. \nSHIP No.: 1578\nMANUAL NO.: H-302, INSTRUCTION BOOK FOR WINDLASS & MOORING WINCH\nDRAWING NO.: 04281G05S01B,\nCHAPTER 5. DETAIL DESCRIPTION OF MAIN PARTS\nHYDRAULIC MOTOR,\nTYPE: HMKC SERIES, ",
+      "quantity": "40.000",
+      "unit": "PIECE",
+      "component": {
+        "type": "MESPAS",
+        "id": "8a70809c85abe7170188872f5f3852e2",
+        "name": "S.H.C.S(FRONT COVER)",
+        "execution": "FOR WINDLASS/MOORING WINCH HYD. MOTOR",
+        "brand": {
+          "name": "Kawasaki"
+        },
+        "specificationDetails": [
+          {
+            "name": "Item No.",
+            "value": "419AR"
+          },
+          {
+            "name": "Group",
+            "value": ""
+          },
+          {
+            "name": "Dwg. No.",
+            "value": "04281G05S01B"
+          },
+          {
+            "name": "Qty./Unit",
+            "value": "10"
+          },
+          {
+            "name": "Material",
+            "value": ""
+          },
+          {
+            "name": "Part No.",
+            "value": ""
+          }
+        ],
+        "primaryIdentificationValue": "419AR",
+        "secondaryIdentificationValue": ""
+      }
+    },
+    {
+      "position": "17",
+      "quality": null,
+      "remark": "KAWASAKI HYDRAULIC DECK MACHINERY, \n \"ADVANCED SERIES\", \nKAWASAKI PRECISION MACHINERY LTD. \nSHIP No.: 1578\nMANUAL NO.: H-302, INSTRUCTION BOOK FOR WINDLASS & MOORING WINCH\nDRAWING NO.: 04281G05S01B,\nCHAPTER 5. DETAIL DESCRIPTION OF MAIN PARTS\nHYDRAULIC MOTOR,\nTYPE: HMKC SERIES, ",
+      "quantity": "200.000",
+      "unit": "PIECE",
+      "component": {
+        "type": "MESPAS",
+        "id": "8a70809c85abe7170188872f5ecb52cc",
+        "name": "S.H.C.S (CYLINDER END CAP)",
+        "execution": "FOR WINDLASS/MOORING WINCH HYD. MOTOR",
+        "brand": {
+          "name": "Kawasaki"
+        },
+        "specificationDetails": [
+          {
+            "name": "Item No.",
+            "value": "420AM"
+          },
+          {
+            "name": "Group",
+            "value": ""
+          },
+          {
+            "name": "Dwg. No.",
+            "value": "04281G05S01B"
+          },
+          {
+            "name": "Qty./Unit",
+            "value": "50"
+          },
+          {
+            "name": "Material",
+            "value": ""
+          },
+          {
+            "name": "Part No.",
+            "value": ""
+          }
+        ],
+        "primaryIdentificationValue": "420AM",
+        "secondaryIdentificationValue": ""
+      }
+    },
+    {
+      "position": "18",
+      "quality": null,
+      "remark": "KAWASAKI HYDRAULIC DECK MACHINERY, \n \"ADVANCED SERIES\", \nKAWASAKI PRECISION MACHINERY LTD. \nSHIP No.: 1578\nMANUAL NO.: H-302, INSTRUCTION BOOK FOR WINDLASS & MOORING WINCH\nDRAWING NO.: 04281G05S01B,\nCHAPTER 5. DETAIL DESCRIPTION OF MAIN PARTS\nHYDRAULIC MOTOR,\nTYPE: HMKC SERIES, ",
+      "quantity": "20.000",
+      "unit": "PIECE",
+      "component": {
+        "type": "MESPAS",
+        "id": "8a70809c85abe7170188872f5f0052d7",
+        "name": "S.H.C.S(VALVE END CAP)",
+        "execution": "FOR WINDLASS/MOORING WINCH HYD. MOTOR",
+        "brand": {
+          "name": "Kawasaki"
+        },
+        "specificationDetails": [
+          {
+            "name": "Item No.",
+            "value": "422AO"
+          },
+          {
+            "name": "Group",
+            "value": ""
+          },
+          {
+            "name": "Dwg. No.",
+            "value": "04281G05S01B"
+          },
+          {
+            "name": "Qty./Unit",
+            "value": "5"
+          },
+          {
+            "name": "Material",
+            "value": ""
+          },
+          {
+            "name": "Part No.",
+            "value": ""
+          }
+        ],
+        "primaryIdentificationValue": "422AO",
+        "secondaryIdentificationValue": ""
+      }
+    },
+    {
+      "position": "19",
+      "quality": null,
+      "remark": "KAWASAKI HYDRAULIC DECK MACHINERY, \n \"ADVANCED SERIES\", \nKAWASAKI PRECISION MACHINERY LTD. \nSHIP No.: 1578\nMANUAL NO.: H-302, INSTRUCTION BOOK FOR WINDLASS & MOORING WINCH\nDRAWING NO.: 04281G05S01B,\nCHAPTER 5. DETAIL DESCRIPTION OF MAIN PARTS\nHYDRAULIC MOTOR,\nTYPE: HMKC SERIES, ",
+      "quantity": "4.000",
+      "unit": "PIECE",
+      "component": {
+        "type": "MESPAS",
+        "id": "8a70809c85abe7170188872f60b7532f",
+        "name": "SMALL PISTON SEAL RING",
+        "execution": "FOR WINDLASS/MOORING WINCH HYD. MOTOR",
+        "brand": {
+          "name": "Kawasaki"
+        },
+        "specificationDetails": [
+          {
+            "name": "Item No.",
+            "value": "452GE"
+          },
+          {
+            "name": "Group",
+            "value": ""
+          },
+          {
+            "name": "Dwg. No.",
+            "value": "04281G05S01B"
+          },
+          {
+            "name": "Qty./Unit",
+            "value": "1"
+          },
+          {
+            "name": "Material",
+            "value": ""
+          },
+          {
+            "name": "Part No.",
+            "value": ""
+          }
+        ],
+        "primaryIdentificationValue": "452GE",
+        "secondaryIdentificationValue": ""
+      }
+    },
+    {
+      "position": "20",
+      "quality": null,
+      "remark": "KAWASAKI HYDRAULIC DECK MACHINERY, \n \"ADVANCED SERIES\", \nKAWASAKI PRECISION MACHINERY LTD. \nSHIP No.: 1578\nMANUAL NO.: H-302, INSTRUCTION BOOK FOR WINDLASS & MOORING WINCH\nDRAWING NO.: 04281G05S01B,\nCHAPTER 5. DETAIL DESCRIPTION OF MAIN PARTS\nHYDRAULIC MOTOR,\nTYPE: HMKC SERIES, ",
+      "quantity": "4.000",
+      "unit": "PIECE",
+      "component": {
+        "type": "MESPAS",
+        "id": "8a70809c85abe7170188872f60815324",
+        "name": "LARGE PISTON SEAL RING",
+        "execution": "FOR WINDLASS/MOORING WINCH HYD. MOTOR",
+        "brand": {
+          "name": "Kawasaki"
+        },
+        "specificationDetails": [
+          {
+            "name": "Item No.",
+            "value": "453GD"
+          },
+          {
+            "name": "Group",
+            "value": ""
+          },
+          {
+            "name": "Dwg. No.",
+            "value": "04281G05S01B"
+          },
+          {
+            "name": "Qty./Unit",
+            "value": "1"
+          },
+          {
+            "name": "Material",
+            "value": ""
+          },
+          {
+            "name": "Part No.",
+            "value": ""
+          }
+        ],
+        "primaryIdentificationValue": "453GD",
+        "secondaryIdentificationValue": ""
+      }
+    },
+    {
+      "position": "21",
+      "quality": null,
+      "remark": "KAWASAKI HYDRAULIC DECK MACHINERY, \n \"ADVANCED SERIES\", \nKAWASAKI PRECISION MACHINERY LTD. \nSHIP No.: 1578\nMANUAL NO.: H-302, INSTRUCTION BOOK FOR WINDLASS & MOORING WINCH\nDRAWING NO.: 04281G05S01B,\nCHAPTER 5. DETAIL DESCRIPTION OF MAIN PARTS\nHYDRAULIC MOTOR,\nTYPE: HMKC SERIES, ",
+      "quantity": "24.000",
+      "unit": "PIECE",
+      "component": {
+        "type": "MESPAS",
+        "id": "8a70809c85abe7170188872f60ec533a",
+        "name": "SHAFT SEAL RING",
+        "execution": "FOR WINDLASS/MOORING WINCH HYD. MOTOR",
+        "brand": {
+          "name": "Kawasaki"
+        },
+        "specificationDetails": [
+          {
+            "name": "Item No.",
+            "value": "454GF"
+          },
+          {
+            "name": "Group",
+            "value": ""
+          },
+          {
+            "name": "Dwg. No.",
+            "value": "04281G05S01B"
+          },
+          {
+            "name": "Qty./Unit",
+            "value": "6"
+          },
+          {
+            "name": "Material",
+            "value": ""
+          },
+          {
+            "name": "Part No.",
+            "value": ""
+          }
+        ],
+        "primaryIdentificationValue": "454GF",
+        "secondaryIdentificationValue": ""
+      }
+    },
+    {
+      "position": "22",
+      "quality": null,
+      "remark": "KAWASAKI HYDRAULIC DECK MACHINERY, \n \"ADVANCED SERIES\", \nKAWASAKI PRECISION MACHINERY LTD. \nSHIP No.: 1578\nMANUAL NO.: H-302, INSTRUCTION BOOK FOR WINDLASS & MOORING WINCH\nDRAWING NO.: 04281G05S01B,\nCHAPTER 5. DETAIL DESCRIPTION OF MAIN PARTS\nHYDRAULIC MOTOR,\nTYPE: HMKC SERIES, ",
+      "quantity": "12.000",
+      "unit": "PIECE",
+      "component": {
+        "type": "MESPAS",
+        "id": "8a70809c85abe7170188872f61275345",
+        "name": "SHAFT SEAL BACKING RING",
+        "execution": "FOR WINDLASS/MOORING WINCH HYD. MOTOR",
+        "brand": {
+          "name": "Kawasaki"
+        },
+        "specificationDetails": [
+          {
+            "name": "Item No.",
+            "value": "471GG"
+          },
+          {
+            "name": "Group",
+            "value": ""
+          },
+          {
+            "name": "Dwg. No.",
+            "value": "04281G05S01B"
+          },
+          {
+            "name": "Qty./Unit",
+            "value": "3"
+          },
+          {
+            "name": "Material",
+            "value": ""
+          },
+          {
+            "name": "Part No.",
+            "value": ""
+          }
+        ],
+        "primaryIdentificationValue": "471GG",
+        "secondaryIdentificationValue": ""
+      }
+    },
+    {
+      "position": "23",
+      "quality": null,
+      "remark": "KAWASAKI HYDRAULIC DECK MACHINERY, \n \"ADVANCED SERIES\", \nKAWASAKI PRECISION MACHINERY LTD. \nSHIP No.: 1578\nMANUAL NO.: H-302, INSTRUCTION BOOK FOR WINDLASS & MOORING WINCH\nDRAWING NO.: 04281G05S01B,\nCHAPTER 5. DETAIL DESCRIPTION OF MAIN PARTS\nHYDRAULIC MOTOR,\nTYPE: HMKC SERIES, ",
+      "quantity": "4.000",
+      "unit": "PIECE",
+      "component": {
+        "type": "MESPAS",
+        "id": "8a70809c85abe7170188872f5f7052ed",
+        "name": "O-RING(SPACER SURROUND)",
+        "execution": "FOR WINDLASS/MOORING WINCH HYD. MOTOR",
+        "brand": {
+          "name": "Kawasaki"
+        },
+        "specificationDetails": [
+          {
+            "name": "Item No.",
+            "value": "475BI"
+          },
+          {
+            "name": "Group",
+            "value": ""
+          },
+          {
+            "name": "Dwg. No.",
+            "value": "04281G05S01B"
+          },
+          {
+            "name": "Qty./Unit",
+            "value": "1"
+          },
+          {
+            "name": "Material",
+            "value": ""
+          },
+          {
+            "name": "Part No.",
+            "value": ""
+          }
+        ],
+        "primaryIdentificationValue": "475BI",
+        "secondaryIdentificationValue": ""
+      }
+    },
+    {
+      "position": "24",
+      "quality": null,
+      "remark": "KAWASAKI HYDRAULIC DECK MACHINERY, \n \"ADVANCED SERIES\", \nKAWASAKI PRECISION MACHINERY LTD. \nSHIP No.: 1578\nMANUAL NO.: H-302, INSTRUCTION BOOK FOR WINDLASS & MOORING WINCH\nDRAWING NO.: 04281G05S01B,\nCHAPTER 5. DETAIL DESCRIPTION OF MAIN PARTS\nHYDRAULIC MOTOR,\nTYPE: HMKC SERIES, \n",
+      "quantity": "20.000",
+      "unit": "PIECE",
+      "component": {
+        "type": "MESPAS",
+        "id": "8a70809c85abe7170188821151d8455b",
+        "name": "PISTON SEAL BACKING RING",
+        "execution": "FOR WINDLASS/ MOORING WINCH HYD. MOTOR",
+        "brand": {
+          "name": "Kawasaki"
+        },
+        "specificationDetails": [
+          {
+            "name": "Item No.",
+            "value": "483P"
+          },
+          {
+            "name": "Group",
+            "value": ""
+          },
+          {
+            "name": "Dwg. No.",
+            "value": "04281G05S01B"
+          },
+          {
+            "name": "Qty./Unit",
+            "value": "5"
+          },
+          {
+            "name": "Material",
+            "value": ""
+          },
+          {
+            "name": "Part No.",
+            "value": ""
+          }
+        ],
+        "primaryIdentificationValue": "483P",
+        "secondaryIdentificationValue": ""
+      }
+    },
+    {
+      "position": "25",
+      "quality": null,
+      "remark": "KAWASAKI HYDRAULIC DECK MACHINERY, \n \"ADVANCED SERIES\", \nKAWASAKI PRECISION MACHINERY LTD. \nSHIP No.: 1578\nMANUAL NO.: H-302, INSTRUCTION BOOK FOR WINDLASS & MOORING WINCH\nDRAWING NO.: 04281G05S01B,\nCHAPTER 5. DETAIL DESCRIPTION OF MAIN PARTS\nHYDRAULIC MOTOR,\nTYPE: HMKC SERIES, ",
+      "quantity": "8.000",
+      "unit": "PIECE",
+      "component": {
+        "type": "MESPAS",
+        "id": "8a70809c85abe7170188872f5fac52f8",
+        "name": "O-RING(SPACER PRESSURE FEED)",
+        "execution": "FOR WINDLASS/MOORING WINCH HYD. MOTOR",
+        "brand": {
+          "name": "Kawasaki"
+        },
+        "specificationDetails": [
+          {
+            "name": "Item No.",
+            "value": "497BO"
+          },
+          {
+            "name": "Group",
+            "value": ""
+          },
+          {
+            "name": "Dwg. No.",
+            "value": "04281G05S01B"
+          },
+          {
+            "name": "Qty./Unit",
+            "value": "2"
+          },
+          {
+            "name": "Material",
+            "value": ""
+          },
+          {
+            "name": "Part No.",
+            "value": ""
+          }
+        ],
+        "primaryIdentificationValue": "497BO",
+        "secondaryIdentificationValue": ""
+      }
+    },
+    {
+      "position": "26",
+      "quality": null,
+      "remark": "KAWASAKI HYDRAULIC DECK MACHINERY, \n \"ADVANCED SERIES\", \nKAWASAKI PRECISION MACHINERY LTD. \nSHIP No.: 1578\nMANUAL NO.: H-302, INSTRUCTION BOOK FOR WINDLASS & MOORING WINCH\nDRAWING NO.: 04281G05S01B,\nCHAPTER 5. DETAIL DESCRIPTION OF MAIN PARTS\nHYDRAULIC MOTOR,\nTYPE: HMKC SERIES, ",
+      "quantity": "4.000",
+      "unit": "PIECE",
+      "component": {
+        "type": "MESPAS",
+        "id": "8a70809c85abe7170188872f5fe45303",
+        "name": "1/8'' B.S.P. PRESSURE PLUG",
+        "execution": "FOR WINDLASS/MOORING WINCH HYD. MOTOR",
+        "brand": {
+          "name": "Kawasaki"
+        },
+        "specificationDetails": [
+          {
+            "name": "Item No.",
+            "value": "771CX"
+          },
+          {
+            "name": "Group",
+            "value": ""
+          },
+          {
+            "name": "Dwg. No.",
+            "value": "04281G05S01B"
+          },
+          {
+            "name": "Qty./Unit",
+            "value": "1"
+          },
+          {
+            "name": "Material",
+            "value": ""
+          },
+          {
+            "name": "Part No.",
+            "value": ""
+          }
+        ],
+        "primaryIdentificationValue": "771CX",
+        "secondaryIdentificationValue": ""
+      }
+    },
+    {
+      "position": "27",
+      "quality": null,
+      "remark": "KAWASAKI HYDRAULIC DECK MACHINERY, \n \"ADVANCED SERIES\", \nKAWASAKI PRECISION MACHINERY LTD. \nSHIP No.: 1578\nMANUAL NO.: H-302, INSTRUCTION BOOK FOR WINDLASS & MOORING WINCH\nDRAWING NO.: 04281G05S01B,\nCHAPTER 5. DETAIL DESCRIPTION OF MAIN PARTS\nHYDRAULIC MOTOR,\nTYPE: HMKC SERIES, ",
+      "quantity": "4.000",
+      "unit": "PIECE",
+      "component": {
+        "type": "MESPAS",
+        "id": "8a70809c85abe7170188872f6017530e",
+        "name": "1/8'' B.S.P. BLEEDCREW",
+        "execution": "FOR WINDLASS/MOORING WINCH HYD. MOTOR",
+        "brand": {
+          "name": "Kawasaki"
+        },
+        "specificationDetails": [
+          {
+            "name": "Item No.",
+            "value": "772CY"
+          },
+          {
+            "name": "Group",
+            "value": ""
+          },
+          {
+            "name": "Dwg. No.",
+            "value": "04281G05S01B"
+          },
+          {
+            "name": "Qty./Unit",
+            "value": "1"
+          },
+          {
+            "name": "Material",
+            "value": ""
+          },
+          {
+            "name": "Part No.",
+            "value": ""
+          }
+        ],
+        "primaryIdentificationValue": "772CY",
+        "secondaryIdentificationValue": ""
+      }
+    },
+    {
+      "position": "28",
+      "quality": null,
+      "remark": "KAWASAKI HYDRAULIC DECK MACHINERY, \n \"ADVANCED SERIES\", \nKAWASAKI PRECISION MACHINERY LTD. \nSHIP No.: 1578\nMANUAL NO.: H-302, INSTRUCTION BOOK FOR WINDLASS & MOORING WINCH\nDRAWING NO.: 04281G05S01B,\nCHAPTER 5. DETAIL DESCRIPTION OF MAIN PARTS\nHYDRAULIC MOTOR,\nTYPE: HMKC SERIES, ",
+      "quantity": "4.000",
+      "unit": "PIECE",
+      "component": {
+        "type": "MESPAS",
+        "id": "8a70809c85abe7170188872f604b5319",
+        "name": "1/8'' B.S.P. BOND WASHER",
+        "execution": "FOR WINDLASS/MOORING WINCH HYD. MOTOR",
+        "brand": {
+          "name": "Kawasaki"
+        },
+        "specificationDetails": [
+          {
+            "name": "Item No.",
+            "value": "773CZ"
+          },
+          {
+            "name": "Group",
+            "value": ""
+          },
+          {
+            "name": "Dwg. No.",
+            "value": "04281G05S01B"
+          },
+          {
+            "name": "Qty./Unit",
+            "value": "1"
+          },
+          {
+            "name": "Material",
+            "value": ""
+          },
+          {
+            "name": "Part No.",
+            "value": ""
+          }
+        ],
+        "primaryIdentificationValue": "773CZ",
+        "secondaryIdentificationValue": ""
+      }
+    }
+  ]
+}
+2023-08-04 13:22:49,538 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - serial number
+2023-08-04 13:22:49,542 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - serial number04281G05S01B
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.057692307692307696
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.0703125
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.11666666666666667
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.0375
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.07291666666666667
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.015625
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.0625
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.017857142857142856
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.015625
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.03289473684210526
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.02631578947368421
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.03125
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.03676470588235294
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.052083333333333336
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.03571428571428571
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.015625
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.022058823529411766
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.013888888888888888
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.00625
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.026785714285714284
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.025
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.011363636363636364
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.00625
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.011363636363636364
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.041666666666666664
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.04375
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.05
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.026785714285714284
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.03571428571428571
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.07692307692307693
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.07352941176470588
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.09375
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.019230769230769232
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.019230769230769232
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.0125
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.014705882352941176
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.017857142857142856
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.041666666666666664
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.025
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.11842105263157894
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.2
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.03333333333333333
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.038461538461538464
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.025
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.015625
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.07894736842105263
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.05625
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.08333333333333333
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.5714285714285714
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.413265306122449
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.32142857142857145
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.029411764705882353
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.013392857142857142
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.02040816326530612
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.032467532467532464
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.030612244897959183
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.017857142857142856
+2023-08-04 13:22:51,653 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.05042016806722689
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.011278195488721804
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.030612244897959183
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.04642857142857143
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.030612244897959183
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.014285714285714285
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.16326530612244897
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.05952380952380952
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.039285714285714285
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.03571428571428571
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.02631578947368421
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.03571428571428571
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.02142857142857143
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.012987012987012988
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.012605042016806723
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.011278195488721804
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.011904761904761904
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.011278195488721804
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.013392857142857142
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.025210084033613446
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.016483516483516484
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.022321428571428572
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.2976190476190476
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.022556390977443608
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.03214285714285714
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.017857142857142856
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.015873015873015872
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.03296703296703297
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.02857142857142857
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.02857142857142857
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.017857142857142856
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.07142857142857142
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.037815126050420166
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.02631578947368421
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.04285714285714286
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.01680672268907563
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.02197802197802198
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.03896103896103896
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.011278195488721804
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.017857142857142856
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.03571428571428571
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.02040816326530612
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.009523809523809525
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.008928571428571428
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.009523809523809525
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.010714285714285714
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.01098901098901099
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.02197802197802198
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.017857142857142856
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.012987012987012988
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.016483516483516484
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.012987012987012988
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.05844155844155844
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.027472527472527472
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.023809523809523808
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.02142857142857143
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.010714285714285714
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.023809523809523808
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.01020408163265306
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.08333333333333333
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.07738095238095238
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.039285714285714285
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.07142857142857142
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.013392857142857142
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.02631578947368421
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.02142857142857143
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.025210084033613446
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.03571428571428571
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.025210084033613446
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.025
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.03571428571428571
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.08928571428571429
+2023-08-04 13:22:51,654 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.025
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.011904761904761904
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.026785714285714284
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.01948051948051948
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.03571428571428571
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.014285714285714285
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.03296703296703297
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.025510204081632654
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.015873015873015872
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.015037593984962405
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.012605042016806723
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.014285714285714285
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.044642857142857144
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.026785714285714284
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.014285714285714285
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.011278195488721804
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.015873015873015872
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.017857142857142856
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.01948051948051948
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.015037593984962405
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.03896103896103896
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.017857142857142856
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.05102040816326531
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.017857142857142856
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.012605042016806723
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.1092436974789916
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.01098901098901099
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.06349206349206349
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.02040816326530612
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.01948051948051948
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.007142857142857143
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.007518796992481203
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.014285714285714285
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.06493506493506493
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.032467532467532464
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.014285714285714285
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.010714285714285714
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.011904761904761904
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.015306122448979591
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.05952380952380952
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.014285714285714285
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.007142857142857143
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.01020408163265306
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.03571428571428571
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.06547619047619048
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.012605042016806723
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.030612244897959183
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.047619047619047616
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.022321428571428572
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.05714285714285714
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.046218487394957986
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.016483516483516484
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.06428571428571428
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.023809523809523808
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.01948051948051948
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.01020408163265306
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.02142857142857143
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.014285714285714285
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.05952380952380952
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.030612244897959183
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.009523809523809525
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.026785714285714284
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.48214285714285715
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.051587301587301584
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.05102040816326531
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.03759398496240601
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0.007142857142857143
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maker maching percent 0
+2023-08-04 13:22:51,655 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maching item name  SPEEDI SLEEVE
+2023-08-04 13:22:51,658 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maching item name  TWO SPEED CRANKSHAFT
+2023-08-04 13:22:51,661 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maching item name  REAR BEARING
+2023-08-04 13:22:51,663 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maching item name  FRONT BEARING
+2023-08-04 13:22:51,665 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maching item name  PISTON SEAL RING
+2023-08-04 13:22:51,667 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maching item name  VALVE SEAL RING
+2023-08-04 13:22:51,670 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maching item name  O-RING(FRONT COVER)
+2023-08-04 13:22:51,673 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maching item name  VALVE HOUSING SPIGOT
+2023-08-04 13:22:51,676 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maching item name  SPACER SPIGOT
+2023-08-04 13:22:51,678 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maching item name  SQUARE SECT. SEAL RING
+2023-08-04 13:22:51,682 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maching item name  SQUARE SECT. SEAL RING
+2023-08-04 13:22:51,685 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maching item name  O-RING(INTERNAL PORT SPACER)
+2023-08-04 13:22:51,689 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maching item name  O-RING(INTERNAL PORT)
+2023-08-04 13:22:51,693 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maching item name  SHAFT SEAL
+2023-08-04 13:22:51,694 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maching item name  S.H.C.S (VALVE HOUSING/SPACER/MOTORCASE)
+2023-08-04 13:22:51,700 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maching item name  S.H.C.S(FRONT COVER)
+2023-08-04 13:22:51,703 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maching item name  S.H.C.S (CYLINDER END CAP)
+2023-08-04 13:22:51,707 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maching item name  S.H.C.S(VALVE END CAP)
+2023-08-04 13:22:51,710 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maching item name  SMALL PISTON SEAL RING
+2023-08-04 13:22:51,714 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maching item name  LARGE PISTON SEAL RING
+2023-08-04 13:22:51,717 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maching item name  SHAFT SEAL RING
+2023-08-04 13:22:51,720 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maching item name  SHAFT SEAL BACKING RING
+2023-08-04 13:22:51,723 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maching item name  O-RING(SPACER SURROUND)
+2023-08-04 13:22:51,727 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maching item name  PISTON SEAL BACKING RING
+2023-08-04 13:22:51,730 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maching item name  O-RING(SPACER PRESSURE FEED)
+2023-08-04 13:22:51,735 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maching item name  1/8'' B.S.P. PRESSURE PLUG
+2023-08-04 13:22:51,739 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maching item name  1/8'' B.S.P. BLEEDCREW
+2023-08-04 13:22:51,742 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - maching item name  1/8'' B.S.P. BOND WASHER
+2023-08-04 13:22:51,745 [5] INFO  MESPAS.Controllers.MESPASEnquiryController - msd event id 36641
+2023-08-04 13:22:53,117 [24] INFO  MESPAS.Controllers.MESPASEnquiryController - Before Save Enquiry Data Helper.Model.MESPASEnquiryClassDeclarations+Enquiryheader
+2023-08-04 13:22:53,117 [24] INFO  MESPAS.Controllers.MESPASEnquiryController - After Save Enquiry Data "{\"result\":\"Enquiry Saved Successfully\"}"

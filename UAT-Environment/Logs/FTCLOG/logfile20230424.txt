@@ -1,0 +1,11 @@
+2023-04-24 13:45:32,800 [4] INFO  FTC.Controllers.MSDEnquiryController - Enquiry Details not found
+2023-04-24 13:45:52,366 [12] INFO  FTC.Controllers.MSDEnquiryController - Enquiry Details not found
+2023-04-24 13:45:53,745 [4] INFO  FTC.Controllers.MSDEnquiryController - Enquiry Details not found
+2023-04-24 13:45:56,335 [4] INFO  FTC.Controllers.MSDEnquiryController - Enquiry Details not found
+2023-04-24 13:45:59,995 [12] INFO  FTC.Controllers.MSDEnquiryController - Enquiry Details not found
+2023-04-24 13:46:03,773 [4] INFO  FTC.Controllers.MSDEnquiryController - Enquiry Details not found
+2023-04-24 14:16:29,556 [38] INFO  FTC.Controllers.MSDEnquiryController - Enquiry header data not found
+2023-04-24 14:29:01,094 [53] INFO  FTC.Controllers.MSDEnquiryController - Enquiry Details not found
+2023-04-24 23:00:43,506 [14] INFO  Helper.Report.SNQReport - Enquiry  data not found for Report
+2023-04-24 23:00:44,178 [16] INFO  Helper.Report.SNQReport - Enquiry  data not found for Report
+2023-04-24 23:00:44,941 [10] INFO  Helper.Report.SNQReport - Enquiry  data not found for Report

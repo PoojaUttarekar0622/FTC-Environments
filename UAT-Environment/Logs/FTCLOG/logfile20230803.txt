@@ -1,0 +1,5 @@
+2023-08-03 21:04:01,129 [8] INFO  FTC.Controllers.MSDEnquiryController - Enquiry Details not found
+2023-08-03 21:04:02,976 [15] INFO  FTC.Controllers.MSDEnquiryController - Enquiry Details not found
+2023-08-03 21:04:09,432 [15] INFO  FTC.Controllers.MSDEnquiryController - Enquiry Details not found
+2023-08-03 23:00:44,330 [8] INFO  Helper.Report.SNQReport - Enquiry  data not found for Report
+2023-08-03 23:00:45,185 [19] INFO  Helper.Report.SNQReport - Enquiry  data not found for Report
